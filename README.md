@@ -11,3 +11,5 @@ Specific Prompts Used:
 Outputs Generated:
 - Gemini provided the core Python script with properly documented comments (#).
 - Gemini helped me debug the column name mismatches, suggesting the correction to book_title and book_rating, which allowed the code to run successfully in Google Colab.
+
+For the May 5th Machine Learning submission, I used Gemini to help implement regression models (Linear Regression and Random Forest) using scikit-learn. Prompt: "Write a python code to apply machine learning to predict movie revenue based on budget and book ratings using the existing merged dataframe.
